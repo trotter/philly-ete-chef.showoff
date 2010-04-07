@@ -26,10 +26,17 @@ TODO: ADD THE IMAGE
 * Heavily Automated
 * 1.5 hours
 
-!SLIDE center
+!SLIDE
 
 # Scary Statistic #
 ## 250 early car companies failed by 1930 ##
+
 <div class="note">
 (This stat came from wikipedia, ymmv)
 </div>
+
+!SLIDE
+
+# "Most tech companies are essentially American auto companies pre-Ford." #
+# - Me #
+

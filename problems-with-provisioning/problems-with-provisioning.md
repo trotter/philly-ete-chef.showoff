@@ -24,8 +24,3 @@
 * Heisenbugs
 * No More Cash
 
-!SLIDE center
-
-# "Most tech companies are essentially American auto companies pre-Ford." #
-# - Me #
-
