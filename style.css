@@ -3,10 +3,21 @@ body {
   color: white;
 }
 
+#footer {
+  color: black;
+}
+
+.subsection {
+  background: transparent;
+  color: inherit;
+}
+
 #preso, .slide {
   background: transparent;
 }
 
-div .note {
-  vertical-align: baseline;
+div.note {
+  margin-top: 240px;
+  float: right;
 }
+
