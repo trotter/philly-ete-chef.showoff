@@ -1,13 +1,13 @@
 [
-  {"section": "title"},
-  {"section": "about-me"},
-  {"section": "the-plan"},
-  {"section": "car-companies"},
-  {"section": "problems-with-provisioning"},
-  {"section": "automation-helps"},
-  {"section": "about-chef"},
-  {"section": "getting-started"},
-  {"section": "chef-architecture"},
-  {"section": "resources"},
-  {"section": "the-end"}
+//  {"section": "title"},
+//  {"section": "about-me"},
+//  {"section": "the-plan"},
+//  {"section": "car-companies"},
+//  {"section": "problems-with-provisioning"},
+//  {"section": "automation-helps"},
+//  {"section": "about-chef"},
+//  {"section": "getting-started"},
+  {"section": "chef-architecture"}
+//  {"section": "resources"},
+//  {"section": "the-end"}
 ]

@@ -12,7 +12,7 @@
 
 !SLIDE bullets incremental directory
 
-# A Chef Repo #
+# The Chef Directory #
 
 * config/
 * cookbooks/
@@ -22,7 +22,7 @@
 
 !SLIDE bullets incremental directory
 
-# A Cookbook #
+# The Cookbook Directory #
 
 * README.rdoc
 * recipes/
@@ -38,7 +38,7 @@
 * definitions/
 * libraries/
 
-!SLIDE
+!SLIDE small
 
 # A Simple Recipe #
 
@@ -47,8 +47,8 @@
 
     home = ENV['HOME']
     git "#{home}/.profile.d" do
-      # node[:profile][:repo] is set in the config
-      # => "git://github.com/matschaffer/profile.git"
+      # node[:profile][:repo] is set in config
+      # "git://github.com/matschaffer/profile.git"
       repository node[:profile][:repo]
       action :sync
     end

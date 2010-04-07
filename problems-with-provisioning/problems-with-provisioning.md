@@ -16,11 +16,16 @@
 * mongodb, couchdb, riak, ...
 * iptables, sshd, ...
 
+!SLIDE bullets incremental
+
+# What You Get #
+
+* Snowflakes
+* Heisenbugs
+* No More Cash
+
 !SLIDE center
 
-# Expensive #
-
-!SLIDE center
-
-"Most tech companies are essentially American auto companies pre-Ford." - Me
+# "Most tech companies are essentially American auto companies pre-Ford." #
+# - Me #
 

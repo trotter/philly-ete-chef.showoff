@@ -18,11 +18,9 @@ TODO: ADD THE IMAGE
 * Hand Crafted
 * 12.5 hours
 
-!SLIDE center
+!SLIDE bullets incremental
 
 # Ford #
-
-!SLIDE bullets incremental
 
 * Model T - $850
 * Heavily Automated
