@@ -21,3 +21,19 @@ div.note {
   float: right;
 }
 
+.bullets ul li {
+  text-align: left;
+}
+
+.bullets ul {
+  list-style: inside disc;
+}
+
+.commandline code.command {
+  color: inherit;
+}
+
+pre.sh_sourceCode {
+  background-color: #fff;
+  padding: 15px;
+}
