@@ -37,3 +37,11 @@ pre.sh_sourceCode {
   background-color: #fff;
   padding: 15px;
 }
+
+.content {
+  margin-top: 0.5em;
+}
+
+.slide {
+  height: 600px;
+}
