@@ -19,13 +19,9 @@
 * static resource files
 * totally f#ck|ng awesome
 
-!SLIDE center
-
-# Did I mention it sucks? #
-
 !SLIDE bullets incremental
 
-# Wasn't it Awesome? #
+# But It Sucks #
 
 * Difficult to maintain
 * Adding new machines was time consuming

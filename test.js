@@ -8,7 +8,7 @@ function centerSlide(slide) {
   // TODO: Make this conditional on having the "center" class
   //       ... or override when there's a top class
   if (slide_content.hasClass("subsection") ||
-      slide_content.hasClass("title") ||
+      slide_content.hasClass("title-slide") ||
       slide_content.hasClass("center")) {
     slide_content.css('margin-top', mar_top)
   }

@@ -15,7 +15,7 @@
 spatula is in flux, so don't be surprised if commands have changed.
 </div>
 
-!SLIDE top
+!SLIDE
 
 # Make a node config #
 

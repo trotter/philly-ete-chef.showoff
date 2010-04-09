@@ -2,11 +2,9 @@
 
 # A Brief History #
 
-!SLIDE center
+!SLIDE
 
-# Early Cars #
-
-![oldcar](oldcar.png)
+![oldcar](oldcar.jpg)
 
 TODO: ADD THE IMAGE
 
@@ -26,7 +24,7 @@ TODO: ADD THE IMAGE
 * Heavily Automated
 * 1.5 hours
 
-!SLIDE
+!SLIDE center
 
 # Scary Statistic #
 ## 250 early car companies failed by 1930 ##
@@ -35,7 +33,7 @@ TODO: ADD THE IMAGE
 (This stat came from wikipedia, ymmv)
 </div>
 
-!SLIDE
+!SLIDE center
 
 # "Most tech companies are essentially American auto companies pre-Ford." #
 # - Me #

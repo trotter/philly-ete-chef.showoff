@@ -2,11 +2,11 @@
 
 # About Me #
 
-!SLIDE
+!SLIDE center
 
 # @cashion #
 
-!SLIDE
+!SLIDE center
 
 # http://github.com/trotter #
 

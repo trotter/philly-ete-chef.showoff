@@ -42,5 +42,8 @@
 * Next box took 1/2 hour
 * Initial provisioning ~15-30 minutes
 * Typical runtime is < 2 minutes
-* OMFG PONIES!!!!!1
+
+!SLIDE center
+
+## That's like Unicorns and shit. ##
 
