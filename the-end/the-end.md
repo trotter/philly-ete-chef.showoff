@@ -1,7 +1,3 @@
-!SLIDE subsection
-
-Wrapup
-
 !SLIDE bullets incremental
 
 # Remember
@@ -18,7 +14,7 @@ Wrapup
 * github  - http://github.com/trotter
 * email   - cashion on the gmailz
 
-!SLIDE
+!SLIDE center
 
 # Thank You #
 

@@ -13,5 +13,6 @@
 
 # More on Chef
 
-* Wiki - http://wiki.opscode.com/display/chef/Home
-* Cookbooks - http://cookbooks.opscode.com/
+* http://wiki.opscode.com/display/chef/Home
+* http://cookbooks.opscode.com/
+* http://wiki.opscode.com/display/chef/Resources

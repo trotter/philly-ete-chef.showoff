@@ -18,76 +18,6 @@
 * cookbooks/
 * roles/
 * site-cookbooks/ (sometimes)
-* certificates/ (not important for solo)
-
-!SLIDE bullets incremental directory
-
-# The Cookbook Directory #
-
-* README.rdoc
-* recipes/
-* files/
-* templates/
-* attributes/
-
-!SLIDE bullets incremental directory
-
-# A Cookbook #
-
-* metadata.rb
-* definitions/
-* libraries/
-
-!SLIDE small
-
-# A Simple Recipe #
-
-    @@@ruby
-    # cookbooks/profile/recipes/default.rb
-
-    home = ENV['HOME']
-    git "#{home}/.profile.d" do
-      # node[:profile][:repo] is set in config
-      # "git://github.com/matschaffer/profile.git"
-      repository node[:profile][:repo]
-      action :sync
-    end
-    
-    link "#{home}/.profile" do
-      to "#{home}/.profile.d/init"
-    end
-
-!SLIDE bullets incremental
-
-# Top 5 Resources
-
-* Template
-* Directory
-* RemoteFile
-* Deploy
-* SCM
-
-<div class="note">
-Find more at http://wiki.opscode.com/display/chef/Resources
-</div>
-
-!SLIDE
-
-# A Sample Template #
-
-    @@@erb
-    <VirtualHost *:80>
-      ServerName <%= @params[:server_name] %>
-      DocumentRoot <%= @params[:docroot] %>
-      RewriteEngine On
-      
-      <Directory <%= @params[:docroot] %>>
-        Options FollowSymLinks
-        AllowOverride None
-        Order allow,deny
-        Allow from all
-      </Directory>
-    </VirtualHost>
 
 !SLIDE
 
@@ -105,6 +35,29 @@ Find more at http://wiki.opscode.com/display/chef/Resources
     default_attributes "apache2" => 
       { "listen_ports" => [ "80", "443" ] }
 
-<div class="note">
-Shamelessly copied straight from the chef wiki.
-</div>
+!SLIDE bullets incremental directory
+
+# The Cookbook Directory #
+
+* recipes/
+* files/
+* templates/
+* attributes/
+
+!SLIDE bullets incremental directory
+
+# A Cookbook #
+
+* metadata.rb
+* definitions/
+* libraries/
+
+!SLIDE bullets incremental
+
+# Top 4 Resources
+
+* Template
+* Directory
+* RemoteFile
+* Deploy
+
