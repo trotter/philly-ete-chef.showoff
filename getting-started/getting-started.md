@@ -33,6 +33,7 @@ spatula is in flux, so don't be surprised if commands have changed.
 
 # Again Locally #
 
+    $ cp config/solo.rb.example config/solo.rb
     $ spatula cook db-server.yourcompany.com db_server
 
 <div class="note">
